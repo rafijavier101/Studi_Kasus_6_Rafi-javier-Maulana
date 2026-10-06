@@ -27,7 +27,7 @@ Output:
 
 <img width="188" height="284" alt="terminusTambah" src="https://github.com/user-attachments/assets/55e97d64-cd8b-481c-a07a-00b7476b6069" />
 
-5. kode dibawah adalah kode untuk tampilan menu, serta tombol keluar dari program
+5. kode dibawah adalah kode untuk tampilan menu, pilihan menu, serta tombol keluar dari program
 
 <img width="339" height="219" alt="SC6menu" src="https://github.com/user-attachments/assets/b727e61f-ec05-4699-9368-ee1acfdd1ce6" />
 
