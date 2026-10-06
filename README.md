@@ -31,7 +31,12 @@ Output:
 
 <img width="339" height="219" alt="SC6menu" src="https://github.com/user-attachments/assets/b727e61f-ec05-4699-9368-ee1acfdd1ce6" />
 
-File JSON sebelum dan sesudah ditambah data
+Output:
+
+<img width="120" height="65" alt="1menu" src="https://github.com/user-attachments/assets/4aa03ca3-f90d-4f1e-ae56-51859bf84edf" />
+
+
+6. File JSON sebelum dan sesudah ditambah data
 
 sebelum:
 
